@@ -1,5 +1,5 @@
 # FlaskAppWithDocker
-This project was created to study more about the creation of a simple Flask application and docker.
+This project was created to study more about creating a simple Flask application and docker.
 
 The project is a basic Python Flask app in Docker which return a fake user.
 
